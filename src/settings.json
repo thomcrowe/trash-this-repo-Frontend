@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Revolutionize Your Workflow with the All-in-One Innovative SaaS Platform",
+        "title": "SaaS Awesomeness: The Ultimate Platform Solution"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Revolutionize Your Workflow with the All-in-One Innovative SaaS Platform",
+        "title": "SaaS Awesomeness: The Ultimate Platform Solution"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Revolutionize Your Workflow with the All-in-One Innovative SaaS Platform",
+        "title": "SaaS Awesomeness: The Ultimate Platform Solution"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Revolutionize Your Workflow with the All-in-One Innovative SaaS Platform",
+        "title": "SaaS Awesomeness: The Ultimate Platform Solution"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Revolutionize Your Workflow with the All-in-One Innovative SaaS Platform",
+        "title": "SaaS Awesomeness: The Ultimate Platform Solution"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Revolutionize Your Workflow with the All-in-One Innovative SaaS Platform",
+        "title": "SaaS Awesomeness: The Ultimate Platform Solution"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Revolutionize Your Workflow with the All-in-One Innovative SaaS Platform",
+        "title": "SaaS Awesomeness: The Ultimate Platform Solution"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Revolutionize Your Workflow with the All-in-One Innovative SaaS Platform",
+        "title": "SaaS Awesomeness: The Ultimate Platform Solution"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Revolutionize Your Workflow with the All-in-One Innovative SaaS Platform",
+        "title": "SaaS Awesomeness: The Ultimate Platform Solution"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "SaaS Awesomeness: The Ultimate Platform Solution",
+  "subtitle": "Revolutionize Your Workflow with the All-in-One Innovative SaaS Platform"
+}
